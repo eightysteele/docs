@@ -1,60 +1,15 @@
----
-hero_img: ./images/hero.jpg
----
+# Documentation 
 
-# Welcome to the Textile documentation. 
+Explore the docs and tutorials for building apps with Textile. Textile is developer infrastructure for the decentralized internet, built on technologies like [Libp2p](https://libp2p.io), [IPFS](https://ipfs.io), and [Filecoin](https://filecoin.io)—with client libraries written in Go and JavaScript. Let's get started!
 
-Textile is designed to connect and extend [Libp2p](https://libp2p.io), [IPFS](https://ipfs.io), and [Filecoin](https://filecoin.io).
+  - [Buckets](#buckets)—object storage (conceptually similar to Amazon S3)
+  - [ThreadDB](#threaddb)—document-oriented database (conceptually similar to MongoDB)
+  - [The Hub](#the-hub)—hosted Buckets and ThreadDB (conceptually similar to Heroku)
+  - [Filecoin Powergate](#filecoin-powergate)—manage Filecoin storage, caching, and deal automation
+  - [Tutorials](#tutorials)—build apps with JavaScript and Go client libraries
+  - [Resources](#resources)—get in touch, explore the code, follow our progress
+  - [Contributors](#contributors)—the Textile stack is open source!
 
-Whether you are an expert or an absolute beginner, you'll find your answers here. 
-
-
-Pick a starting point below, or use the search box to find documents matching your keywords.
-
-## Technologies
-
-Learn about the different technologies that make-up Textile:
-
-- [Welcome to the Textile documentation.](#welcome-to-the-textile-documentation)
-  - [Technologies](#technologies)
-  - [The Hub](#the-hub)
-  - [Buckets](#buckets)
-  - [ThreadDB](#threaddb)
-  - [Filecoin Powergate](#filecoin-powergate)
-  - [Tutorials](#tutorials)
-  - [Other Resources](#other-resources)
-  - [Thanks!](#thanks)
-
-## The Hub
-
-The Hub is your portal to the IPFS network and the fastest way to start building and experimenting with Textile technologies.
-
-Use the Hub to:
-
-* Persist your data on the IPFS network.
-* Enhance the speed and availability of your decentralized databases
-* And more. 
-
-The Hub provides APIs and developer libraries that enable remote IPFS pinning in your apps or simplifying the deployment of our decentralized database, ThreadDB.
-
-**Learn more about the Hub**
-
-<div class="txtl-options">
-  <a href="./hub/" class="box">
-    <h5>Introduction</h5>
-    <p>Learn more about using the Textile Hub.</p>
-  </a>
-  <span class="box-space"> </span>
-  <a href="./hub/apis" class="box">
-    <h5>App APIs</h5>
-    <p>Use Threads & Buckets to persist data on IPFS from your apps.</p>
-  </a>
-  <span class="box-space"> </span>
-  <a href="./tutorials/hub/web-app/" class="box">
-    <h5>App Building</h5>
-    <p>Read a tutorial on building apps using the Hub.</p>
-  </a>
-</div>
 
 ## Buckets
 
@@ -134,6 +89,37 @@ Spend less time configuring encryption or managing content addresses with Thread
   </span>
 </div>
 
+## The Hub
+
+The Hub is your portal to the IPFS network and the fastest way to start building and experimenting with Textile technologies.
+
+Use the Hub to:
+
+* Persist your data on the IPFS network.
+* Enhance the speed and availability of your decentralized databases
+* And more. 
+
+The Hub provides APIs and developer libraries that enable remote IPFS pinning in your apps or simplifying the deployment of our decentralized database, ThreadDB.
+
+**Learn more about the Hub**
+
+<div class="txtl-options">
+  <a href="./hub/" class="box">
+    <h5>Introduction</h5>
+    <p>Learn more about using the Textile Hub.</p>
+  </a>
+  <span class="box-space"> </span>
+  <a href="./hub/apis" class="box">
+    <h5>App APIs</h5>
+    <p>Use Threads & Buckets to persist data on IPFS from your apps.</p>
+  </a>
+  <span class="box-space"> </span>
+  <a href="./tutorials/hub/web-app/" class="box">
+    <h5>App Building</h5>
+    <p>Read a tutorial on building apps using the Hub.</p>
+  </a>
+</div>
+
 ## Filecoin Powergate
 
 !!!warning
@@ -182,7 +168,7 @@ View our tutorials on getting started with JavaScript and Golang.
   </span>
 </div>
 
-## Other Resources
+## Resources
 
 Join our public [Slack](https://slack.textile.io), visit our [GitHub](https://github.com/textileio), follow us on [Twitter](https://twitter.com/textileio), and check out the [Blog](https://blog.textile.io/)!
 
@@ -191,7 +177,7 @@ Join our public [Slack](https://slack.textile.io), visit our [GitHub](https://gi
 <a href="https://bafzbeifr6cslv5f422xyfwr46ydc2u3gujgdeozynyofcxzgzue6fzcbme.ipns.dweb.link/" target="_blank" style="text-decoration:none;color:grey">This site is on /ipns/bafzbeifr6cslv5f422xyfwr46ydc2u3gujgdeozynyofcxzgzue6fzcbme</a>
 </i>
 
-## Thanks!
+## Contributors
 
 To all of the great people who have contributed to the [Textile projects](https://github.com/textileio) recently.
 
